@@ -70,16 +70,16 @@ Stack: PyTorch with Adam optimizer, ReduceLROnPlateau scheduler, 50 epochs
 ## Visualizations
 
 ### EDA Overview
-![EDA Overview](../Images/eda_overview.png)
+![EDA Overview](Images/eda_overview.png)
 
 ### Correlation Heatmap
-![Correlation Heatmap](../Images/correlation_heatmap.png)
+![Correlation Heatmap](Images/correlation_heatmap.png)
 
 ### Top Locations by Median Price
-![Top Locations](../Images/top_locations.png)
+![Top Locations](Images/top_locations.png)
 
 ### Model Comparison
-![Model Comparison](../Images/model_comparison.png)
+![Model Comparison](Images/model_comparison.png)
 
 ---
 
